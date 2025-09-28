@@ -1,0 +1,66 @@
+
+body{
+    text-align: center;
+}
+.titulo{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    box-shadow: 10px 20px 30px black;
+    background-color: rgb(255, 255, 255);
+    margin: 40px;
+    margin-left: 0;
+    border-radius: 5px;
+    height: 35px;
+    width: 100%;
+    box-sizing: border-box;
+    text-shadow: 2px 16px 20px rgba(0,0,0,0.58);
+    background: linear-gradient(88deg,#ff0000 10%, #ffffff 80%);
+ 
+}
+
+.texto{
+    font-family: lexend exa;
+    column-count: 2;
+    margin: 50px;
+
+}
+
+
+.foto{
+    padding-bottom: 100px;
+
+
+}
+
+.lexend-exa{
+  font-family: "Lexend Exa", sans-serif;
+  font-optical-sizing: auto;
+  font: weight 100px;;
+  font-style: normal;
+}
+
+.fugaz-one-regular {
+  font-family: "Fugaz One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h3{
+    font-family:Fugaz One , sans-serif;
+}
+.rojo{
+    color: #ff0000;
+}
+
+ul li {
+    font-size: 20px;
+    font-weight: lighter;
+}
+.black{
+    color: black;
+}
+.iconos{
+    font-size: 25px;
+}
