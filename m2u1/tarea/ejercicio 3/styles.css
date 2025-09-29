@@ -1,0 +1,48 @@
+.contenedor{
+	background-color: white;
+	display: flex;
+	flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 200px;
+    
+    
+    
+    
+    
+}
+
+
+.item{
+	background-color: #ccc;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	font-size: 30px;
+    
+   
+    
+}
+
+#rojo{
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+#azul{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#verde {
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

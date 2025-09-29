@@ -1,0 +1,42 @@
+.contenedor{
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+    align-items: flex-end;
+    
+    
+    
+}
+
+
+.item{
+	background-color: #ccc;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	font-size: 30px;
+    
+}
+
+#rojo{
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+#azul{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#verde {
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
